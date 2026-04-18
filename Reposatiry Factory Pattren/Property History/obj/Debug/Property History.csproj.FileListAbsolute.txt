@@ -1,0 +1,15 @@
+C:\projects\IDB-BISEW\WADA_1294727\Property History\bin\Debug\Property History.exe.config
+C:\projects\IDB-BISEW\WADA_1294727\Property History\bin\Debug\Property History.exe
+C:\projects\IDB-BISEW\WADA_1294727\Property History\bin\Debug\Property History.pdb
+C:\projects\IDB-BISEW\WADA_1294727\Property History\obj\Debug\Property History.csproj.AssemblyReference.cache
+C:\projects\IDB-BISEW\WADA_1294727\Property History\obj\Debug\Property History.csproj.CoreCompileInputs.cache
+C:\projects\IDB-BISEW\WADA_1294727\Property History\obj\Debug\Property History.exe
+C:\projects\IDB-BISEW\WADA_1294727\Property History\obj\Debug\Property History.pdb
+C:\Users\Naim Hossain\Downloads\Documents\WADA_1294727\Property History\obj\Debug\Property History.csproj.AssemblyReference.cache
+C:\Users\Naim Hossain\Downloads\Documents\WADA_1294727\Property History\obj\Debug\Property History.csproj.CoreCompileInputs.cache
+C:\Users\Naim Hossain\Downloads\Documents\WADA_1294727\Property History\obj\Debug\Property History.exe
+C:\Users\Naim Hossain\Downloads\Documents\WADA_1294727\Property History\obj\Debug\Property History.pdb
+C:\Users\Naim Hossain\Downloads\Documents\WADA_1294727\Property History\bin\Debug\Property History.exe.config
+C:\Users\Naim Hossain\Downloads\Documents\WADA_1294727\Property History\bin\Debug\Property History.exe
+C:\Users\Naim Hossain\Downloads\Documents\WADA_1294727\Property History\bin\Debug\Property History.pdb
+C:\projects\IDB-BISEW\WADA_1294727\Property History\obj\Debug\Property History.exe.config
